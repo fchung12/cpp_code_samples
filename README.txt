@@ -1,1 +1,1 @@
-CS580 3D Graphics and Rendering Library
+USC CS580 3D Graphics Homeworks 1-6
