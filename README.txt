@@ -1,4 +1,5 @@
 USC CS580 3D Graphics Homeworks 1-6
+Basic 3D rendering library implemented as a Visual Studio Community 2019 application.
 
 Most of the renderer code is found in rend.cpp in homeworks
 HW1 - Basic framebuffer/pixelbuffer loading
