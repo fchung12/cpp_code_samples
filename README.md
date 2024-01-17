@@ -6,6 +6,10 @@ HW1 - Basic framebuffer/pixelbuffer loading\
 HW2 - Triangle rasterization using Scan-Line/LEE (I used scanlines for this assignment)\
 <img src="./sample_images/output2.jpg" width="200" height="200" />\
 HW3 - Matrix stack transformations to configure camera and perspective projection\
+<img src="./sample_images/output3.jpg" width="200" height="200" />\
 HW4 - Basic Flat/Gouraud/Phong shading\
+<img src="./sample_images/output4_flat.jpg" width="200" height="200" />
+<img src="./sample_images/output4_gouraud.jpg" width="200" height="200" />
+<img src="./sample_images/output4_phong.jpg" width="200" height="200" />\
 HW5 - UV Texture mapping, procedural textures and perspective correct parameters\
 HW6 - Anti-Aliasing and Accumulation buffer
