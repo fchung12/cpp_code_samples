@@ -16,6 +16,7 @@ HW5 - UV Texture mapping, procedural textures and perspective correct parameters
 HW6 - Anti-Aliasing and Accumulation buffer\
 <img src="./sample_images/output6.jpg" width="200" height="200" />\
 Final Project - Soft Body Physics using Positon Based Dynamics\
+<img src="./sample_images/lineOnly.gif" width="200" height="200" />
 <img src="./sample_images/volLine.gif" width="200" height="200" />
 <img src="./sample_images/teapot_ground_textured.gif" width="200" height="200" />
 <img src="./sample_images/ball_linevol.gif" width="200" height="200" />
