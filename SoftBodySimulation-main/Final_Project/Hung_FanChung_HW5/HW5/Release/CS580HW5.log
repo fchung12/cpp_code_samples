@@ -1,0 +1,20 @@
+﻿  SoftBody.cpp
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\rend.h(222,43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\utils.h(33,85): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\utils.h(38,85): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\utils.h(81,37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\SoftBody.cpp(254,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\SoftBody.cpp(291,60): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\SoftBody.cpp(492,3): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\SoftBody.cpp(500,3): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\SoftBody.cpp(523,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\SoftBody.cpp(586,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CS580HW5.vcxproj -> C:\Users\cc\Desktop\CS580Graphics\Final_Project\final\SoftBodySimulation-main\SoftBodySimulation-main\Final_Project\Hung_FanChung_HW5\HW5\Release\CS580HW5.exe
