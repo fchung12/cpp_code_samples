@@ -12,4 +12,11 @@ HW4 - Basic Flat/Gouraud/Phong shading\
 <img src="./sample_images/output4_gouraud.jpg" width="200" height="200" />
 <img src="./sample_images/output4_phong.jpg" width="200" height="200" />\
 HW5 - UV Texture mapping, procedural textures and perspective correct parameters\
-HW6 - Anti-Aliasing and Accumulation buffer
+<img src="./sample_images/output5.jpg" width="200" height="200" />\
+HW6 - Anti-Aliasing and Accumulation buffer\
+<img src="./sample_images/output6_flat.jpg" width="200" height="200" />\
+Final Project - Soft Body Physics using Positon Based Dynamics\
+<img src="./sample_images/volLine.jpg" width="200" height="200" />
+<img src="./sample_images/teapot_ground_textured.jpg" width="200" height="200" />
+<img src="./sample_images/ball_linevol.jpg" width="200" height="200" />
+
